@@ -6,6 +6,7 @@ Fight against Node and Bun using Next.js
 
 ## Running Dev
 - Node takes: ✓ Ready in 4.3s
+- Node with Next Turbo: ✓ Ready in 1998ms
 - Bun takes: ✓ Ready in 3s
 
 ## Installing Styled Components
